@@ -11,6 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 * une machine à café
+* un navigateur web
 
 ```
 A définir

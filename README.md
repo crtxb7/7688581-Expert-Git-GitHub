@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 * une machine à café
 * un navigateur web
+* un serveur web
 
 ```
 A définir

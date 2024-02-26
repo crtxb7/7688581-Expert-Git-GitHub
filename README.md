@@ -47,7 +47,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
+* **crtxb7**
 
 ## License
 
